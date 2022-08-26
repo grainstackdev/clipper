@@ -17,3 +17,8 @@ ___
 1. Add the System>Open action to the grid.
 2. Click on the file selector for "App / File".
 3. Select one of the `clip-x-min.js` files.
+
+### FFMPEG
+1. Obtain a copy of ffmpeg.exe and ffprobe.exe. The official place is https://ffmpeg.org/download.html#build-windows, but here is a shortcut: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+2. Unzip and inside `bin`, you can find the two `.exe` files.
+3. Places these to `.exe` files inside this folder.
