@@ -15,7 +15,7 @@ ___
 
 ### Stream Deck
 1. Add the System>Open action to the grid.
-2. Click on the file selector for "App / File".
+2. Click on the file selector for "App / File" (rocket icon).
 3. Select one of the `clip-x-min.js` files.
 
 ### FFMPEG
