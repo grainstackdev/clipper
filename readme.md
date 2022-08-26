@@ -14,8 +14,8 @@ ___
 3. In your `.env`, change the value of `MKV_FOLDER` to what you have in OBS.
 
 ### Stream Deck
-1. Add the System>Open action to the grid.
-2. Click on the file selector for "App / File" (rocket icon).
+1. Add the System>Open (rocket icon) action to the grid.
+2. Click on the file selector for "App / File".
 3. Select one of the `clip-x-min.js` files.
 
 ### FFMPEG
