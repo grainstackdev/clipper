@@ -8,7 +8,6 @@ import uploadFile from "./uploadFile";
 import config from "./config";
 import parse from "date-fns/parse";
 
-
 const appName = 'uploader'
 const locker = new SingleInstance(appName)
 

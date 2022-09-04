@@ -14,7 +14,7 @@ export default async function uploadFile(filePath: string): void {
 
   const fileName = filePath.slice(filePath.lastIndexOf('/') + 1)
   // todo verify file is mkv
-
+  
   console.log(`Begin uploading ${fileName}`)
 
   const command = new CreateMultipartUploadCommand({
